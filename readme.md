@@ -50,4 +50,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This code is licensed under the [ISC License](LICENSE).
+This code is licensed under the [MIT License](LICENSE).
