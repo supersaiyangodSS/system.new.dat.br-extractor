@@ -11,15 +11,7 @@ Before running this code, ensure that you have the following prerequisites:
 
 ## Installation
 
-1. Clone or download the code from the [GitHub repository](https://github.com/vedant8177/system.new.dat.br-extractor).
-
-2. Open a terminal or command prompt and navigate to the project directory.
-
-3. Install the required dependencies by running the following command:
-
-   ```bash
-   npm install
-   ```
+Clone or download the code from the [GitHub repository](https://github.com/vedant8177/system.new.dat.br-extractor).
 
 ## Usage
 
