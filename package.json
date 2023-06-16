@@ -1,15 +1,23 @@
 {
   "name": "system.new.dat.br-extractor",
   "version": "1.0.0",
-  "description": "",
+  "description": "A utility for extracting .br files in the system.new.dat format.",
   "main": "app.js",
   "scripts": {
     "build": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Vedant Kale",
   "license": "ISC",
   "dependencies": {
     "zlib": "^1.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedant8177/system.new.dat.br-extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vedant8177/system.new.dat.br-extractor/issues"
+  },
+  "homepage": "https://github.com/vedant8177/system.new.dat.br-extractor"
 }
